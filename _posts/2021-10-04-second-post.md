@@ -7,4 +7,4 @@ date: 2021-10-04
 Created a second post that will use more features of markdown.
 
 # Trip to France
-![Eiffel Tower](C:\Users\james\Pictures\Tour_Eiffel_Wikimedia_Commons)
+![Eiffel Tower](Tour_Eiffel_Wikimedia_Commons.jpg)
